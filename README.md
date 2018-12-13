@@ -3,3 +3,5 @@
 We were given a Fire Bird V robot and had to write python code to navigate the bot in a set path on a grid using opencv and a camera. 
 
 We qualified till round 3.
+
+Please note that this repo is a clone of an old private gitlab repo.
